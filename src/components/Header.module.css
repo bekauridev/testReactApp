@@ -1,0 +1,21 @@
+.header {
+  max-width: 80rem;
+  background-color: #262a56;
+  margin: 0 auto;
+  padding: 5rem 4rem;
+}
+.headerTittle {
+  text-transform: uppercase;
+}
+.headerHeading {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  color: rgb(255, 255, 255);
+}
+
+.headerIcon {
+  background-color: #b8621b;
+  padding: 9px 8px 4px 8px;
+  border-radius: 15px;
+}
